@@ -8,7 +8,7 @@
   align-items: center;
   justify-content: space-between;
   padding: 20px 80px;
-  background: #e3e3e3;
+  background: #FFFF;
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.06);
   margin-top: 0%;
   position: sticky;
@@ -99,4 +99,7 @@
 }
 .prodo p {
   text-align: center;
+}
+.container {
+  padding: 30px 90px;
 }
